@@ -1,2 +1,3 @@
 # desnica
-My mi RE tool
+My mini RE tool
+version 0.0.0.1
